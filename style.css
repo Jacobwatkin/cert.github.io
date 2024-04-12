@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  background-color: black;
+  color: pink;
+}
+body{
+  background-color: pink;
+  text-align: center;
+}
+
+h2{
+  background-color: black;
+  color: pink;
+}
